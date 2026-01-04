@@ -1,5 +1,5 @@
-//TODO: create a duplicate file checker that can scan multiple directories and prompts the user if before deleting them. 
-//Add a gui as well that present these choices to the user. But try to get it working in the temrinal first.
+//TODO: create a duplicate file checker that can scan multiple directories and prompts the user before deleting them. 
+//Add a gui as well that will present these choices to the user. But try to get it working in the temrinal first.
 //Impports:
 #![allow(unused)]
 use std::io;
