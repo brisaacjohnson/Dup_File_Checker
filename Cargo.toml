@@ -1,0 +1,8 @@
+[package]
+name = "Dup_File_Checker"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+dupefinder = "0.2.0"
+walkdir = "2.5.0"
