@@ -53,7 +53,7 @@ fn main() {
 
     let cb = |entry: &DirEntry| {
         println!("{:?}", entry.path());
-    }; //needed to have .path method. Come back and find out why this is needed.
+    }; //needed to have .path method. Come back and find out why this is needed. And better understand closures in rust.
 
     dup_finder(path, &cb);
 } 
